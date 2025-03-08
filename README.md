@@ -126,7 +126,7 @@ but also gives you various benefits which can improve the quality of your life. 
 ## Connect with me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shivprasad-solanke)
-<a href="https://drive.google.com/file/d/1JOo5nnlW4mj5HRk0sU211UCP0DM5vErV/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1xys6kGMyMwWZZIMlp5xzzbsFgUlgjHG7/view">
   <img src="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white" alt="Download Resume">
 </a>
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/shivprasad.solanke/)
