@@ -3,21 +3,21 @@
 <table>
   <tr>
     <!-- Left Column: Profile Image -->
-    <td style="vertical-align: top; width: 30%;">
+    <td style="width:30%; text-align:center; vertical-align:top;">
       <img 
         src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/1709674661110-1.gif" 
-        alt="Profile Animation" 
-        style="border-radius: 50%; width: 100%; max-width: 250px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);"
-      >
+        alt="" 
+        style="border-radius:50%; width:100%; max-width:250px; box-shadow:0 4px 10px rgba(0,0,0,0.2);"
+      />
     </td>
     <!-- Right Column: About Me -->
-    <td style="vertical-align: top; width: 70%; padding-left: 20px;">
+    <td style="width:70%; vertical-align:top; padding-left:20px;">
       <h2>About Me</h2>
       <p>
-        Hi there! I’m <strong>Shivprasad Solanke</strong>, a passionate <strong>Full Stack Web Developer</strong> and an aspiring <strong>Software Engineer</strong> with expertise in <strong>programming, DevOps, and cloud infrastructure</strong>.
+        Hi there! I’m **Shivprasad Solanke**, a passionate **Full Stack Web Developer** and an aspiring **Software Engineer** with expertise in **programming, DevOps, and cloud infrastructure**.
       </p>
       <p>
-        I thrive on crafting scalable web applications, designing robust architectures, and diving deep into cutting-edge technologies. My strengths include:
+        I thrive on crafting scalable web applications, designing robust architectures, and diving deep into cutting‐edge technologies. My strengths include:
       </p>
       <ul>
         <li>🚀 Problem-solving expertise</li>
@@ -25,58 +25,56 @@
         <li>⏳ Ability to deliver under pressure</li>
       </ul>
       <p>
-        Whether it's breaking down complex problems, exploring the latest in DevOps automation, or building something amazing with code – I'm always up for a challenge!
+        Whether it's breaking down complex problems or exploring the latest in DevOps automation – I'm always up for a challenge!
       </p>
       <p><strong>Reach Me:</strong> <a href="mailto:shivsolanke12+github@gmail.com">shivsolanke12@gmail.com</a></p>
     </td>
   </tr>
 </table>
 
-<br>
+---
 
 ## Skills & Expertise
 
 <p align="center">
-  <strong>Full-Stack:</strong> MERN<br>
-  <strong>DevOps:</strong> Ansible, Kubernetes, Terraform, Jenkins, Shell Scripting, Docker, AWS, Git, GitHub, Docker-slim, SonarQube, Trivy<br>
-  <strong>Languages:</strong> Python, C/C++, Java, JavaScript<br>
+  <strong>Full-Stack:</strong> MERN <br>
+  <strong>DevOps:</strong> Ansible, Kubernetes, Terraform, Jenkins, Shell Scripting, Docker, AWS, Git, GitHub, Docker-slim, SonarQube, Trivy <br>
+  <strong>Languages:</strong> Python, C/C++, Java, JavaScript <br>
   <strong>Databases:</strong> MySQL, MongoDB, SQL
 </p>
 
-<br>
+---
 
 ## My Hobbies & Interests
 
 <table>
   <tr>
-    <!-- Text Column -->
-    <td style="vertical-align: top; width: 70%;">
+    <td style="width:70%; vertical-align:top;">
       <p>
         I enjoy watching Netflix and movies, reading tech books, writing <a href="https://medium.com/@shivsolanke12">blogs</a>, and experimenting with new algorithms. Hobbies help me relax, reduce stress, and spark creativity.
       </p>
     </td>
-    <!-- Image Column -->
-    <td style="vertical-align: top; width: 30%; text-align: center;">
+    <td style="width:30%; vertical-align:top; text-align:center;">
       <img 
         src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/tenor.gif" 
-        alt="Hobbies Animation" 
-        style="max-width: 200px;"
-      >
+        alt="" 
+        style="max-width:200px;"
+      />
     </td>
   </tr>
 </table>
 
-<br>
+---
 
 ## My Technologies
 
 <p align="center">
-  <img src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/devops-lifecycle.jpeg" alt="DevOps Lifecycle" height="150" style="margin: 5px;">
-  <img src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/mern.png" alt="MERN Stack" height="150" style="margin: 5px;">
-  <img src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/CLoud-COmputing.jpg" alt="Cloud Computing" height="150" style="margin: 5px;">
+  <img src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/devops-lifecycle.jpeg" alt="DevOps Lifecycle" height="150" style="margin:5px;" />
+  <img src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/mern.png" alt="MERN Stack" height="150" style="margin:5px;" />
+  <img src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/CLoud-COmputing.jpg" alt="Cloud Computing" height="150" style="margin:5px;" />
 </p>
 
-<br>
+---
 
 ## Technical Tools
 
@@ -112,35 +110,35 @@
   ![Linux](https://img.shields.io/badge/-Linux-2E2A47?style=flat-square&logo=linux&logoColor=white)
 </p>
 
-<br>
+---
 
 ## My Technical Blog Posts
 
 <p align="center">
   <a href="https://github-readme-medium-recent-article.vercel.app/medium/@shivsolanke12/0" target="_blank">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivsolanke12/0?timestamp=123456" alt="Recent Article" style="max-width: 100%;">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivsolanke12/0?timestamp=123456" alt="Recent Article" style="max-width:100%;" />
   </a>
 </p>
 
-<br>
+---
 
 <h3 align="center">Show some ❤️ by starring some of my repositories!</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivprasad-Solanke&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivprasad-Solanke&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
-<br>
+---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Connecting">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Connecting" />
   <br>
   <em>
     I love connecting with people from around the world. If you’d like to be my friend, feel free to <a href="https://wa.me/+919766376073">reach out</a> and introduce yourself!
   </em>
 </p>
 
-<br>
+---
 
 ## Connect with Me
 
@@ -159,15 +157,15 @@
   </a>
 </p>
 
-<br>
+---
 
 <p align="center">
   <strong>Check out my profile stats!</strong><br>
   <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" alt="Profile Views">
 </p>
 
-<br>
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Thanks for visiting" style="width:100%; max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Thanks for visiting" style="width:100%;" />
 </div>
