@@ -30,7 +30,9 @@ Hi there!👋 I’m <b> Shivprasad Solanke </b>, a passionate Full Stack Web Dev
 👨‍💻 Programming Languages: Python,C/C++,java,javascript .\
 📊 Databases:
 💽 MySQL | 🍃 MongoDB Databases: SQL.\
-📫 How to reach me: Mail me : <a href="shivsolanke12@gmail.com">Shivprasad Solanke</a>
+📫 How to reach me: Mail me:  
+<a href="mailto:shivsolanke12+github@gmail.com">shivsolanke12+github@gmail.com</a>
+
 
 🚀 Why Me? : <br>
 Passionate & Adaptable: Always curious to explore and learn new technologies to stay ahead of the curve.<br>
