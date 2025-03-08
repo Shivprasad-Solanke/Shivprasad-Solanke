@@ -5,18 +5,26 @@
  ## Hi {𝚌𝚘𝚍𝚎𝚛𝚜}! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Shivprasad 👨‍🎓
 <div>
 
-
-<p>
-  <img width="265" height="250" align="left" style="margin:5px; padding-top:10px;" src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/1709674661110-1.gif">
+<p align="center">
+  <img 
+    width="250" 
+    height="250" 
+    src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/1709674661110-1.gif"
+    alt="Profile Animation"
+  >
 </p>
 
-## About Me ✍
-Hi there!👋 I’m <b> Shivprasad Solanke </b>, a passionate Full Stack Web Developer and an aspiring Software Engineer with expertise in programming, DevOps, and cloud infrastructure. I thrive on crafting scalable web applications, designing robust architectures, and diving deep into the core concepts of cutting-edge technologies.With a strong aptitude for learning and the ability to adapt to diverse environments, I bring:
+## About Me ✍  
 
-🧠 Problem-solving expertise<br>
-🤝 Team spirit and collaboration<br>
-⏳ The ability to deliver under pressure <br>
-🔍 Whether it's breaking down complex problems, exploring the latest in DevOps automation, or simply building something amazing with code, I’m always up for a challenge!<br>
+Hi there! 👋 I’m **Shivprasad Solanke**, a passionate **Full Stack Web Developer** and an aspiring **Software Engineer** with expertise in **programming, DevOps, and cloud infrastructure**.  
+
+I thrive on **crafting scalable web applications, designing robust architectures, and diving deep into cutting-edge technologies**. With a strong aptitude for learning and the ability to adapt to diverse environments, I bring:  
+
+- 🚀 **Problem-solving expertise**  
+- 🤝 **Team spirit and collaboration**  
+- ⏳ **Ability to deliver under pressure**  
+
+🔍 Whether it's breaking down complex problems, exploring the latest in **DevOps automation**, or simply building something amazing with code, I’m always up for a challenge!  
 
  <br>
 
