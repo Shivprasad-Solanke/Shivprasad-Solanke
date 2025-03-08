@@ -1,29 +1,23 @@
-<!--
-  README generated with a custom style by ChatGPT.
--->
-
 # Hi Coders! 👋, I am **Shivprasad** 👨‍🎓
 
 <table>
   <tr>
-    <!-- Profile Image -->
-    <td align="center" valign="top" style="padding-right:20px;">
+    <!-- Left Column: Profile Image -->
+    <td style="vertical-align: top; width: 30%;">
       <img 
         src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/1709674661110-1.gif" 
-        width="250" 
-        height="250" 
-        alt="Profile Animation"
-        style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.2);"
+        alt="Profile Animation" 
+        style="border-radius: 50%; width: 100%; max-width: 250px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);"
       >
     </td>
-    <!-- About Me -->
-    <td valign="top">
+    <!-- Right Column: About Me -->
+    <td style="vertical-align: top; width: 70%; padding-left: 20px;">
       <h2>About Me</h2>
       <p>
-        Hi there! I’m **Shivprasad Solanke**, a passionate **Full Stack Web Developer** and an aspiring **Software Engineer** with expertise in **programming, DevOps, and cloud infrastructure**.
+        Hi there! I’m <strong>Shivprasad Solanke</strong>, a passionate <strong>Full Stack Web Developer</strong> and an aspiring <strong>Software Engineer</strong> with expertise in <strong>programming, DevOps, and cloud infrastructure</strong>.
       </p>
       <p>
-        I thrive on crafting scalable web applications, designing robust architectures, and diving deep into cutting-edge technologies. I bring:
+        I thrive on crafting scalable web applications, designing robust architectures, and diving deep into cutting-edge technologies. My strengths include:
       </p>
       <ul>
         <li>🚀 Problem-solving expertise</li>
@@ -33,67 +27,56 @@
       <p>
         Whether it's breaking down complex problems, exploring the latest in DevOps automation, or building something amazing with code – I'm always up for a challenge!
       </p>
-      <p>
-        <strong>Reach Me:</strong> <a href="mailto:shivsolanke12+github@gmail.com">shivsolanke12@gmail.com</a>
-      </p>
+      <p><strong>Reach Me:</strong> <a href="mailto:shivsolanke12+github@gmail.com">shivsolanke12@gmail.com</a></p>
     </td>
   </tr>
 </table>
 
-<hr>
-
-<div align="center">
-  <!-- GitHub profile views badge -->
-  <img src="https://komarev.com/ghpvc/?username=Shivprasad-Solanke" alt="Profile Views" />
-</div>
+<br>
 
 ## Skills & Expertise
 
 <p align="center">
-  💻 Full-stack development (MERN)<br>
-  ♾️ DevOps: Ansible, Kubernetes, Terraform, Jenkins, Shell Scripting, Docker, AWS, Git & GitHub, Docker-slim, SonarQube, Trivy<br>
-  👨‍💻 Languages: Python, C/C++, Java, JavaScript<br>
-  💽 Databases: MySQL, MongoDB, SQL
+  <strong>Full-Stack:</strong> MERN<br>
+  <strong>DevOps:</strong> Ansible, Kubernetes, Terraform, Jenkins, Shell Scripting, Docker, AWS, Git, GitHub, Docker-slim, SonarQube, Trivy<br>
+  <strong>Languages:</strong> Python, C/C++, Java, JavaScript<br>
+  <strong>Databases:</strong> MySQL, MongoDB, SQL
 </p>
 
-<hr>
-
-## Why Choose Me?
-
-<p>
-  <strong>Passionate & Adaptable:</strong> I’m always curious and eager to learn new technologies.<br>
-  <strong>Collaborative:</strong> I thrive in team environments and contribute wholeheartedly.<br>
-  <strong>Deadline-Driven:</strong> My strong problem-solving skills and time management ensure efficient delivery.
-</p>
-
-<hr>
+<br>
 
 ## My Hobbies & Interests
 
-<div>
-  <p>
-    Hobbies not only entertain but also improve our quality of life by reducing stress and boosting creativity. I enjoy watching Netflix and movies, reading tech books, writing [blogs](https://medium.com/@shivsolanke12), and experimenting with new algorithms.
-  </p>
-  <img 
-    align="right" 
-    src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/tenor.gif" 
-    width="200" 
-    alt="Hobbies Animation"
-    style="margin: 10px;"
-  >
-</div>
+<table>
+  <tr>
+    <!-- Text Column -->
+    <td style="vertical-align: top; width: 70%;">
+      <p>
+        I enjoy watching Netflix and movies, reading tech books, writing <a href="https://medium.com/@shivsolanke12">blogs</a>, and experimenting with new algorithms. Hobbies help me relax, reduce stress, and spark creativity.
+      </p>
+    </td>
+    <!-- Image Column -->
+    <td style="vertical-align: top; width: 30%; text-align: center;">
+      <img 
+        src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/tenor.gif" 
+        alt="Hobbies Animation" 
+        style="max-width: 200px;"
+      >
+    </td>
+  </tr>
+</table>
 
-<hr>
+<br>
 
 ## My Technologies
 
 <p align="center">
-  <img src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/devops-lifecycle.jpeg" height="150" alt="DevOps Lifecycle" style="margin: 5px;" />
-  <img src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/mern.png" height="150" alt="MERN Stack" style="margin: 5px;" />
-  <img src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/CLoud-COmputing.jpg" height="150" alt="Cloud Computing" style="margin: 5px;" />
+  <img src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/devops-lifecycle.jpeg" alt="DevOps Lifecycle" height="150" style="margin: 5px;">
+  <img src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/mern.png" alt="MERN Stack" height="150" style="margin: 5px;">
+  <img src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/CLoud-COmputing.jpg" alt="Cloud Computing" height="150" style="margin: 5px;">
 </p>
 
-<hr>
+<br>
 
 ## Technical Tools
 
@@ -129,60 +112,62 @@
   ![Linux](https://img.shields.io/badge/-Linux-2E2A47?style=flat-square&logo=linux&logoColor=white)
 </p>
 
-<hr>
+<br>
 
 ## My Technical Blog Posts
 
 <p align="center">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivsolanke12/0">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivsolanke12/0?timestamp=123456" alt="Recent Article" />
+  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@shivsolanke12/0" target="_blank">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivsolanke12/0?timestamp=123456" alt="Recent Article" style="max-width: 100%;">
   </a>
 </p>
 
-<hr>
+<br>
 
-<h3 align="center">
-  Show some ❤️ by starring some of my repositories!
-</h3>
+<h3 align="center">Show some ❤️ by starring some of my repositories!</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivprasad-Solanke&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivprasad-Solanke&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats">
 </p>
 
-<hr>
+<br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Connecting" />
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Connecting">
   <br>
   <em>
     I love connecting with people from around the world. If you’d like to be my friend, feel free to <a href="https://wa.me/+919766376073">reach out</a> and introduce yourself!
   </em>
 </p>
 
-<hr>
+<br>
 
 ## Connect with Me
 
 <p align="center">
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/shivprasad-solanke)
-  <a href="https://drive.google.com/file/d/1xys6kGMyMwWZZIMlp5xzzbsFgUlgjHG7/view">
-    <img src="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white" alt="Download Resume" />
+  <a href="https://www.linkedin.com/in/shivprasad-solanke">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />](https://www.instagram.com/shivprasad.solanke/)
+  <a href="https://drive.google.com/file/d/1xys6kGMyMwWZZIMlp5xzzbsFgUlgjHG7/view">
+    <img src="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white" alt="Download Resume">
+  </a>
+  <a href="https://www.instagram.com/shivprasad.solanke/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
   <a href="https://medium.com/@shivsolanke12" target="_blank">
-    <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 </p>
 
-<hr>
+<br>
 
 <p align="center">
-  <b>Check out my profile stats!</b><br>
-  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" alt="Profile Views" />
+  <strong>Check out my profile stats!</strong><br>
+  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" alt="Profile Views">
 </p>
 
-<hr>
+<br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Thanks for visiting" width="100%" height="120" />
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Thanks for visiting" style="width:100%; max-width: 100%;">
 </div>
