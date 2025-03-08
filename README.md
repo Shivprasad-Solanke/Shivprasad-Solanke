@@ -7,7 +7,7 @@
 
 
 <p>
-  <img width="300" height="250" align="left" style="margin:5px; padding-top:10px;" src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/1709674661110-1.gif">
+  <img width="282" height="250" align="left" style="margin:5px; padding-top:10px;" src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/1709674661110-1.gif">
 </p>
 
 ## About Me ✍
@@ -54,9 +54,10 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ### My Technologies
 <p align="center">
- <img height="200" width="200" src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/devops-lifecycle.jpeg" />
- <img height="200" width="200" src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/mern.png" />
- <img height="200" width="200" src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/CLoud-COmputing.jpg" />
+ <img height="200" src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/devops-lifecycle.jpeg" />
+ <img height="200" src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/mern.png" />
+ <img height="200" src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/CLoud-COmputing.jpg" />
+</p>
  
 
 ### Technical Tools
