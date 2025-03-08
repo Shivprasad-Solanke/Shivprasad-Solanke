@@ -14,17 +14,36 @@
   >
 </p>
 
-## About Me ✍  
-
-Hi there! 👋 I’m **Shivprasad Solanke**, a passionate **Full Stack Web Developer** and an aspiring **Software Engineer** with expertise in **programming, DevOps, and cloud infrastructure**.  
-
-I thrive on **crafting scalable web applications, designing robust architectures, and diving deep into cutting-edge technologies**. With a strong aptitude for learning and the ability to adapt to diverse environments, I bring:  
-
-- 🚀 **Problem-solving expertise**  
-- 🤝 **Team spirit and collaboration**  
-- ⏳ **Ability to deliver under pressure**  
-
-🔍 Whether it's breaking down complex problems, exploring the latest in **DevOps automation**, or simply building something amazing with code, I’m always up for a challenge!  
+<table>
+  <tr>
+    <td>
+      <img 
+        width="250" 
+        height="250" 
+        src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/1709674661110-1.gif"
+        alt="Profile Animation"
+      >
+    </td>
+    <td>
+      <h2>About Me ✍</h2>
+      <p>
+        Hi there! 👋 I’m <b>Shivprasad Solanke</b>, a passionate <b>Full Stack Web Developer</b> and an aspiring <b>Software Engineer</b> with expertise in <b>programming, DevOps, and cloud infrastructure</b>.
+      </p>
+      <p>
+        I thrive on <b>crafting scalable web applications, designing robust architectures, and diving deep into cutting-edge technologies</b>. With a strong aptitude for learning and the ability to adapt to diverse environments, I bring:
+      </p>
+      <ul>
+        <li>🚀 <b>Problem-solving expertise</b></li>
+        <li>🤝 <b>Team spirit and collaboration</b></li>
+        <li>⏳ <b>Ability to deliver under pressure</b></li>
+      </ul>
+      <p>
+        🔍 Whether it's breaking down complex problems, exploring the latest in <b>DevOps automation</b>, or simply building something amazing with code, I’m always up for a challenge!
+      </p>
+    </td>
+  </tr>
+</table>
+ 
 
  <br>
 
