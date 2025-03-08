@@ -5,15 +5,6 @@
  ## Hi {𝚌𝚘𝚍𝚎𝚛𝚜}! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Shivprasad 👨‍🎓
 <div>
 
-<p align="center">
-  <img 
-    width="250" 
-    height="250" 
-    src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/1709674661110-1.gif"
-    alt="Profile Animation"
-  >
-</p>
-
 <table>
   <tr>
     <td>
