@@ -78,37 +78,49 @@
 
 ## Technical Tools
 
-<p align="center">
-  ![C](https://img.shields.io/badge/-C-000?&logo=C)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  [![FastAPI](https://img.shields.io/badge/Python_framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
-  ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-  [![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
-  [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
-  [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-  ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
-  ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
-  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
-  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
-  ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-  ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-  ![Trivy](https://img.shields.io/badge/-Trivy-2A9D8E?style=flat-square&logo=trivy&logoColor=white)
-  ![Linux](https://img.shields.io/badge/-Linux-2E2A47?style=flat-square&logo=linux&logoColor=white)
-</p>
+<table align="center">
+  <tr>
+    <td align="center">![C](https://img.shields.io/badge/-C-000?&logo=C)</td>
+    <td align="center">![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)</td>
+    <td align="center">![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)</td>
+    <td align="center">[![FastAPI](https://img.shields.io/badge/Python_framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)</td>
+    <td align="center">![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)</td>
+    <td align="center">[![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)</td>
+  </tr>
+  <tr>
+    <td align="center">[![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)</td>
+    <td align="center">[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)</td>
+    <td align="center">![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)</td>
+    <td align="center">![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)</td>
+    <td align="center">![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)</td>
+    <td align="center">![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)</td>
+  </tr>
+  <tr>
+    <td align="center">[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)</td>
+    <td align="center">![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)</td>
+    <td align="center">![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)</td>
+    <td align="center">![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)</td>
+    <td align="center">[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)</td>
+    <td align="center">[![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)</td>
+  </tr>
+  <tr>
+    <td align="center">![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)</td>
+    <td align="center">![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)</td>
+    <td align="center">![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)</td>
+    <td align="center">![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)</td>
+    <td align="center">![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)</td>
+    <td align="center">![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)</td>
+  </tr>
+  <tr>
+    <td align="center">![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)</td>
+    <td align="center">![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)</td>
+    <td align="center">![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)</td>
+    <td align="center">![Trivy](https://img.shields.io/badge/-Trivy-2A9D8E?style=flat-square&logo=trivy&logoColor=white)</td>
+    <td align="center">![Linux](https://img.shields.io/badge/-Linux-2E2A47?style=flat-square&logo=linux&logoColor=white)</td>
+    <td align="center"></td>
+  </tr>
+</table>
+
 
 ---
 
