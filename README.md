@@ -162,7 +162,7 @@
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Connecting" />
   <br>
   <em>
-    I love connecting with people from around the world. If you’d like to be my friend, feel free to <a href="https://wa.me/+919766376073">reach out</a> and introduce yourself!
+    I love connecting with people from around the world. If you’d like to be my friend, feel free to <a href="https://wa.me/+917498603358">reach out</a> and introduce yourself!
   </em>
 </p>
 
