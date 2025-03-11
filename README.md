@@ -1,4 +1,4 @@
-# Hi Coders! 👋, I am **Shivprasad** 👨‍🎓
+# Hi Coders! 👋, I am <strong>Shivprasad</strong> 👨‍🎓
 
 <table>
   <tr>
@@ -6,26 +6,26 @@
     <td style="width:30%; text-align:center; vertical-align:top;">
       <img 
         src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/1709674661110-1.gif" 
-        alt="" 
+        alt="Profile Image" 
         style="border-radius:50%; width:100%; max-width:250px; box-shadow:0 4px 10px rgba(0,0,0,0.2);"
       />
     </td>
     <!-- Right Column: About Me -->
     <td style="width:70%; vertical-align:top; padding-left:20px;">
-      <h2>About Me</h2>
+      <h2><strong>About Me</strong></h2>
       <p>
-        Hi there! I’m **Shivprasad Solanke**, a passionate **Full Stack Web Developer** and an aspiring **Software Engineer** with expertise in **programming, DevOps, and cloud infrastructure**.
+        Hi there! I’m <strong>Shivprasad Solanke</strong>, a passionate <strong>Full Stack Web Developer</strong> and an aspiring <strong>Software Engineer</strong> with expertise in <strong>programming, DevOps, and cloud infrastructure</strong>.
       </p>
       <p>
-        I thrive on crafting scalable web applications, designing robust architectures, and diving deep into cutting‐edge technologies. My strengths include:
+        I thrive on crafting <strong>scalable web applications</strong>, designing <strong>robust architectures</strong>, and diving deep into <strong>cutting-edge technologies</strong>. My strengths include:
       </p>
       <ul>
-        <li>🚀 Problem-solving expertise</li>
-        <li>🤝 Team spirit and collaboration</li>
-        <li>⏳ Ability to deliver under pressure</li>
+        <li>🚀 <strong>Problem-solving expertise</strong></li>
+        <li>🤝 <strong>Team spirit and collaboration</strong></li>
+        <li>⏳ <strong>Ability to deliver under pressure</strong></li>
       </ul>
       <p>
-        Whether it's breaking down complex problems or exploring the latest in DevOps automation – I'm always up for a challenge!
+        Whether it's breaking down complex problems or exploring the latest in DevOps automation – <strong>I'm always up for a challenge!</strong>
       </p>
       <p><strong>Reach Me:</strong> <a href="mailto:shivsolanke12+github@gmail.com">shivsolanke12@gmail.com</a></p>
     </td>
@@ -34,7 +34,7 @@
 
 ---
 
-## Skills & Expertise
+## <strong>Skills & Expertise</strong>
 
 <p align="center">
   <strong>Full-Stack:</strong> MERN <br>
@@ -45,19 +45,19 @@
 
 ---
 
-## My Hobbies & Interests
+## <strong>My Hobbies & Interests</strong>
 
 <table>
   <tr>
     <td style="width:70%; vertical-align:top;">
       <p>
-        I enjoy watching Netflix and movies, reading tech books, writing <a href="https://medium.com/@shivsolanke12">blogs</a>, and experimenting with new algorithms. Hobbies help me relax, reduce stress, and spark creativity.
+        I enjoy watching <strong>Netflix and movies</strong>, reading <strong>tech books</strong>, writing <a href="https://medium.com/@shivsolanke12"><strong>blogs</strong></a>, and experimenting with <strong>new algorithms</strong>. My hobbies help me <strong>relax</strong>, <strong>reduce stress</strong>, and <strong>spark creativity</strong>.
       </p>
     </td>
     <td style="width:30%; vertical-align:top; text-align:center;">
       <img 
         src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/tenor.gif" 
-        alt="" 
+        alt="Hobbies Animation" 
         style="max-width:200px;"
       />
     </td>
@@ -66,7 +66,7 @@
 
 ---
 
-## My Technologies
+## <strong>My Technologies</strong>
 
 <p align="center">
   <img src="https://github.com/Shivprasad-Solanke/Shivprasad-Solanke/blob/main/technologies/devops-lifecycle.jpeg" alt="DevOps Lifecycle" height="150" style="margin:5px;" />
@@ -76,9 +76,8 @@
 
 ---
 
-<h2 align="center">Technical Tools</h2>
+<h2 align="center"><strong>Technical Tools</strong></h2>
 
-<!-- Flexible container for badges -->
 <div align="center" 
      style="
        background-color: #0D1117; 
@@ -136,11 +135,9 @@
   <img src="https://img.shields.io/badge/-Linux-2E2A47?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
 </div>
 
-
-
 ---
 
-## My Technical Blog Posts
+## <strong>My Technical Blog Posts</strong>
 
 <p align="center">
   <a href="https://github-readme-medium-recent-article.vercel.app/medium/@shivsolanke12/0" target="_blank">
@@ -150,7 +147,7 @@
 
 ---
 
-<h3 align="center">Show some ❤️ by starring some of my repositories!</h3>
+<h3 align="center"><strong>Show some ❤️ by starring some of my repositories!</strong></h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shivprasad-Solanke&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
@@ -162,26 +159,26 @@
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Connecting" />
   <br>
   <em>
-    I love connecting with people from around the world. If you’d like to be my friend, feel free to <a href="https://wa.me/+917498603358">reach out</a> and introduce yourself!
+    I love connecting with people from around the world. If you’d like to be my friend, feel free to <a href="https://wa.me/+917498603358"><strong>reach out</strong></a> and introduce yourself!
   </em>
 </p>
 
 ---
 
-## Connect with Me
+## <strong>Connect with Me</strong>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivprasad-solanke">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://drive.google.com/file/d/1xys6kGMyMwWZZIMlp5xzzbsFgUlgjHG7/view">
     <img src="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white" alt="Download Resume">
   </a>
   <a href="https://www.instagram.com/shivprasad.solanke/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://medium.com/@shivsolanke12" target="_blank">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 </p>
 
@@ -189,7 +186,7 @@
 
 <p align="center">
   <strong>Check out my profile stats!</strong><br>
-  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" alt="Profile Views">
+  <img src="https://profile-counter.glitch.me/Shivprasad-Solanke/count.svg" alt="Profile Views">
 </p>
 
 ---
