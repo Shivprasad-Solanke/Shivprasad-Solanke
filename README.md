@@ -171,7 +171,7 @@
   <a href="https://www.linkedin.com/in/shivprasad-solanke">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://drive.google.com/file/d/1xys6kGMyMwWZZIMlp5xzzbsFgUlgjHG7/view">
+  <a href="https://drive.google.com/file/d/1EYk8Z8hezqL7Ba_S1Quao3UO9qzkcbfs/view?usp=sharing">
     <img src="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white" alt="Download Resume">
   </a>
   <a href="https://www.instagram.com/shivprasad.solanke/">
